@@ -1,0 +1,13 @@
+argparse
+coveralls
+pypandoc
+pytest
+pyparsing
+python-dateutil
+termcolor
+numpy
+pandas
+scipy
+matplotlib
+pandoc
+pyyaml
