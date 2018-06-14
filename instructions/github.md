@@ -116,6 +116,8 @@ A few important rule to remember with git (This is true even for your own projec
 4. Before merging, code needs to be unit test and 100 % coverage.
 5. Before merging, API documentations should be included.
 6. Never merge your own commit. (There are exceptions to this but try not to in general.)
+7. Commit message should be meaningful and/or reference the HISTORY.md file.
+
 
 
 You are now ready to return to the remainder of the walkthrough found

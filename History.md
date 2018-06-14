@@ -2,6 +2,7 @@
 
 ##Revision 0.0.4:
 -Added Makefile and example to docs folder
+-Added a comment in HISTORY.md about commit message.
 
 ##Revision 0.0.3
 -Updated README and instructions.
