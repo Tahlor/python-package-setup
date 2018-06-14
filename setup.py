@@ -18,7 +18,7 @@ except ImportError:
 
 from os import path
 setup(name='learning',
-      version='0.0.3',
+      version='0.0.4',
       description='Getting Started with Python unit testings, documentations, CI and code coverage',
       long_description= "" if not path.isfile("README.md") else read_md('README.md'),
       author='Andrew Huy Nguyen',

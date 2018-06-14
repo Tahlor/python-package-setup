@@ -1,5 +1,8 @@
 # Revision History for Getting Started
 
+##Revision 0.0.4:
+-Added Makefile and example to docs folder
+
 ##Revision 0.0.3
 -Updated README and instructions.
 
