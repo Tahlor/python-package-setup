@@ -1,5 +1,8 @@
 # Revision History for Getting Started
 
+##Revision 0.0.3
+-Updated README and instructions.
+
 ##Revision 0.0.2
 -Added .travis.yml
 -Added setup.py and setup.cfg 

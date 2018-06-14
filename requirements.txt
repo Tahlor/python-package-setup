@@ -8,6 +8,7 @@ termcolor
 numpy
 pandas
 scipy
-matplotlib
 pandoc
 pyyaml
+coverage
+codecov
