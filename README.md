@@ -1,4 +1,4 @@
-# getting-started
+# python-package-setup
 This repository is a training guide for new intern to the Data Science team.
 
 This repository contains sample code and input files that you can use
